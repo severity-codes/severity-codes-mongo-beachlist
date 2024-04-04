@@ -1,2 +1,2 @@
-# severity-codes-mongo-beachlist
-# beach2
+npm start
+npm run dev -- --host
