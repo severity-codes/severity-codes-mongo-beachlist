@@ -1,0 +1,29 @@
+
+{
+    "database": { "name": "cluster0" },
+    "collection": { "name": "Beach_List" },
+    "roles": [
+        {
+            "name": "readAndWriteAll",
+            "apply_when": {},
+            "document_filters": {
+                "read": true,
+                "write": true
+            },
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "read": true,
+            "write": true
+        }
+    ],
+    "document_filters": {
+        "read": true,
+        "write": true
+    },
+    "insert": true,
+    "delete": true,
+    "search": true,
+    "read": true,
+    "write": true
+}

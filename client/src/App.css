@@ -1,0 +1,8 @@
+/* global.css */
+body {
+    background-image: url('./images/beachy2.jpg');
+    /* Additional background styles */
+    background-size: cover;
+    background-position: center;
+    /* Add any other background styles as needed */
+}

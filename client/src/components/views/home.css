@@ -1,0 +1,35 @@
+.home-container {
+  position: relative;
+  height: 100vh;
+
+  
+}
+
+.h1{
+  color: rgb(208, 171, 37);
+  font-size: 40px;
+  font-weight: 100;
+  text-align: center;background-color: #7c7973;
+}
+.para {
+  position: absolute;
+  top: 36%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(175, 152, 68);
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  background-color: #645c4a;
+}
+.explore-container {
+  position: relative;
+margin-top: 49%; 
+  transform: translateX(-50%);
+  background-color: #53524e;
+  color: #e6b440;
+  border-radius: 10%;
+ 
+  
+}
+
